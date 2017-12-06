@@ -10,11 +10,15 @@ using namespace std;
 // smth
 int main()
 {
+
+
+
+/*
 	HANDLE hConsole;
 	int color = 4;
 	hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
 	SetConsoleTextAttribute(hConsole, color);
-	setlocale(LC_ALL, "Rus");
+	setlocale(LC_ALL, "Rus");*/
 
 MyStart:
 	int task = 0;
